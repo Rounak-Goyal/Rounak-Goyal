@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/Rounak-Goyal/Rounak-Goyal/blob/main/Images/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/Rounak-Goyal/Rounak-Goyal/blob/main/Images/developer.gif" alt="Coder GIF" width="400" height="310">
 
 
 
