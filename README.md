@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/Rounak-Goyal/Rounak-Goyal/Arts/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/Rounak-Goyal/Rounak-Goyal/blob/main/Images/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
@@ -13,7 +13,7 @@
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact: I waste most of my time playing games and movies
 
-## 🛠️ Technologies and Tools I use:
+## What I Do:
 - Python :fire: 
 - Problem Solving C++ 🧐
 - Android Development ✍️
@@ -31,9 +31,10 @@
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+ <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-00C7B7?style=flat-square&logo=kotlin&logoColor=white" height="25px"/>
 </p>
 
 
