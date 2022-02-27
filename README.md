@@ -3,7 +3,7 @@
 
 
 
-# Hi there, I am Rounak Goyal 👋
+# Hi there, I am Rounak Goyal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 [![Linkedin Badge](https://img.shields.io/badge/-rounak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Rounak-Goyal/)](https://www.linkedin.com/in/Rounak-Goyal/)
 [![Gmail Badge](https://img.shields.io/badge/-rounak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rounak3110@gmail.com)](mailto:rounak3110@gmail.com) 
 
