@@ -9,7 +9,7 @@
 
 ## About Me:
 - 🔭 I’m currently pursuing B.Tech IIT INDORE
-- 🌱 I’m currently learning `Blockchain`
+- 🌱 I’m currently learning `Blockchain` and `Cloud Computing`
 - 👨‍💻 Life Hack: Learn new tech :fire: and share you have learned :tada:
 - ⚡ Fun fact: I waste most of my time playing games and movies
 
